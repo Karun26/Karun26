@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karun26
-- 👀 I’m interested in ...Rockets,Aircrafts,automobile
+- 👀 I’m interested in ...Data_science,Python,Machine learning
 - 🌱 I’m currently learning ...B.Tech in Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on ... innovation 
 - 📫 How to reach me ...+917510320580
