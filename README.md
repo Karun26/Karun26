@@ -28,7 +28,7 @@ Hello, I'm Karun! 👋
 </p>
 💻 Skills
 <div align="center">
-SkillProficiencyPythonShow ImageMachine LearningShow ImageData ScienceShow ImageDeep LearningShow ImageData VisualizationShow ImageNatural Language ProcessingShow ImageSQLShow ImageCloud Computing (AWS/GCP)Show Image
+Python Machine Learning Data Science Deep Learning Data Visualization Natural Language Processing SQL Cloud Computing (AWS/GCP)
 </div>
 📊 GitHub Stats
 <p align="center">
