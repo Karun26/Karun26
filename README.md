@@ -28,7 +28,7 @@ Hello, I'm Karun! 👋
 </p>
 💻 Skills
 <div align="center">
-Python Machine Learning Data Science Deep Learning Data Visualization Natural Language Processing SQL Cloud Computing (AWS/GCP)
+Python | C# | Flutter | Machine Learning | Data Science | Deep Learning | Data Visualization | Natural Language Processing | SQL | Cloud Computing (AWS/GCP)
 </div>
 📊 GitHub Stats
 <p align="center">
@@ -57,10 +57,10 @@ Python Machine Learning Data Science Deep Learning Data Visualization Natural La
 </p>
 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/sreekarun-a-b086941b9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+<!--   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://kaggle.com/your-kaggle">
@@ -68,7 +68,7 @@ Python Machine Learning Data Science Deep Learning Data Visualization Natural La
   </a>
   <a href="https://medium.com/@your-medium">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
